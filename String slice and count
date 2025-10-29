@@ -1,4 +1,4 @@
-# String
+# String slice Using python
 text = input("Enter a sentence: ")
 words = text.split()
 count = {}
